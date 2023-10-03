@@ -75,11 +75,27 @@ header{
 	width: 50%;
 	align-self: center;
 }
+.korting{
+	color: red;
+}
 
 .product-body{
 	width: 50%;
 	padding: 1em 2em;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	
 }
+.product-title{
+	display: flex;
+	justify-content: space-between;
+}
+.btn-primary{
+	display: flex;
+	
+}
+
 
 .products .form-control{
 	margin-top: 1em;

@@ -44,7 +44,7 @@
       </main>
 
       <footer class="footer">
-        <p><strong>als er nog vragen zijn kunt u altijd ons bereiken met onze mail of telefoon: <a href="mailto:winkelbeheer@scoutingrveer.nl">winkelbeheer@scoutingrveer.nl</a></strong> &middot; S.B.B.S. namens 4Shop-Dylan, Barnsteen 6 4762bp Roosendaal, KvK: 41100325, tel: 06 37648437.</p>
+        <p><strong>als er nog vragen zijn kunt u altijd ons bereiken met onze mail of telefoon <a href="mailto:winkelbeheer@scoutingrveer.nl">winkelbeheer@scoutingrveer.nl</a></strong> &middot; S.B.B.S. namens 4Shop-Dylan, Barnsteen 6 4762bp Roosendaal, KvK: 41100325, tel: 06 37648437.</p>
       </footer>
 
     </div>

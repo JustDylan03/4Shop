@@ -13,6 +13,11 @@
 							<p>{{ $product->description }}</p>
 						@endunless
 					</div>
+					<div class="korting">
+						@if($product->discount > 0)
+							<p>Nu <strong>{{ $product->discount }}%</strong> Korting!</p>
+						@endif
+					</div>
 					<button class="btn btn-primary">Meer info &amp; bestellen</button>
 				</div>
 			</a>
